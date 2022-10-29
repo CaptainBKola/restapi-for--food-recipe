@@ -1,0 +1,2 @@
+Django 3.2.4 > Django 3.3
+Django restframework 3.12.4 >= Django restframework 3.13
